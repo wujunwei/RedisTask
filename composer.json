@@ -1,0 +1,16 @@
+{
+    "name": "firstw/redis-task",
+    "type": "library",
+    "require": {
+        "ext-redis": "^3.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "adam",
+            "email": "adam.wu@shein.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "description": "a timer task library by redis"
+}
